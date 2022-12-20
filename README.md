@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Paul Disharoon! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Hector Rodriguez! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Full Stack JavaScript Developer</em></p>
 
@@ -6,7 +6,7 @@
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<a href="https://calendly.com/paulthedeveloper817/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+<a href="https://calendly.com/hector0410dev/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -41,75 +41,3 @@ const anmol = {
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-885-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 190 Contributions in the Year 2022
- > 
-> 📦 172.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 23 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
-🌆 Daytime    343 commits    ██████████░░░░░░░░░░░░░░░   40.64% 
-🌃 Evening    270 commits    ████████░░░░░░░░░░░░░░░░░   31.99% 
-🌙 Night      121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.34%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
-Tuesday      105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
-Wednesday    116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
-Thursday     113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
-Friday       97 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
-Saturday     121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
-Sunday       168 commits    █████░░░░░░░░░░░░░░░░░░░░   19.91%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: CST
-
-💬 Programming Languages: 
-React.js                 12 hrs 51 mins      ████████████████░░░░░░░░░   65.17% 
-JavaScript               5 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   27.29% 
-protobuf                 38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.25% 
-Protocol Buffer          36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.05% 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
-
-💻 Operating System: 
-Mac                      19 hrs 44 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               33 repos            ████████████░░░░░░░░░░░░░   49.25% 
-Vue                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
-Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
-Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
-
-```
-
-
-
- Last Updated on 02/12/2022 01:47:19 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
